@@ -8,3 +8,4 @@ xgboost
 dill
 imbalanced-learn  # This is to perform the SMOTE 
 dython
+nbformat>=4.2.0
