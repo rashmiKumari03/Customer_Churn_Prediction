@@ -1,5 +1,5 @@
 # Customer Churn Prediction  
-**Edunet Foundation: Machine Learning Internship**
+**Edunet Foundation AICTE Internship : Foundations of AI**
 
 ## Internship Task Description  
 
@@ -26,8 +26,7 @@ To develop a supervised classification model that can accurately predict whether
 
 ### Dataset Overview  
 
-- **Industry**: Banking / Financial Services  
-- **Source**: Kaggle  
+- **Industry**: Banking / Financial Services   
 - **Total Records**: Approximately 10,000 customers  
 - **Target Variable**: `Exited` (1 = Churned, 0 = Retained)  
 - **Features**:
