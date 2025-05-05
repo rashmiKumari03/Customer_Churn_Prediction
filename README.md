@@ -83,7 +83,7 @@ The churn prediction model achieved strong performance, with the most important 
 
 - The dataset contains a mix of demographic and financial features that influence customer churn.
 - Key features such as `CreditScore`, `Balance`, and `Age` were identified as important predictors for churn.
-- The model's performance varied with different algorithms, with Random Forest and XGBoost delivering the best results.
+- The model's performance varied with different algorithms, with XGBoost delivering the best results.
 
 ---
 
