@@ -15,6 +15,8 @@ Develop a model to predict customer churn for a bank , subscription-based servic
 ### Problem Statement  
 Customer attrition, or churn, is a significant challenge for banks and businesses , directly impacting revenue and growth. Retaining existing customers is more cost-effective than acquiring new ones. Therefore, predicting which customers are likely to leave allows banks to develop proactive strategies for retention.
 
+![alt text](dataset/existing_vs_new.png)
+
 This project aims to predict customer churn based on customer demographics and account-related behavior. By identifying high-risk customers, the bank can target retention efforts more effectively.
 
 ---
