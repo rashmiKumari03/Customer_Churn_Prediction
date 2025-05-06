@@ -4,7 +4,7 @@
 ## Internship Task Description  
 
 **TASK : CUSTOMER CHURN PREDICTION**  
-Develop a model to predict customer churn for a subscription-based service or business. Use historical customer data, including features like usage behavior and customer demographics. Try algorithms like Logistic Regression, Random Forests, or Gradient Boosting to predict churn.
+Develop a model to predict customer churn for a bank , subscription-based service or business. Use historical customer data, including features like usage behavior and customer demographics. Try algorithms like Logistic Regression, Random Forests etc to predict churn.
 
 ![alt text](dataset/churn.png)
 
@@ -13,7 +13,7 @@ Develop a model to predict customer churn for a subscription-based service or bu
 ## Project: Predicting Customer Churn in the Banking Sector
 
 ### Problem Statement  
-Customer attrition, or churn, is a significant challenge for banks, directly impacting revenue and growth. Retaining existing customers is more cost-effective than acquiring new ones. Therefore, predicting which customers are likely to leave allows banks to develop proactive strategies for retention.
+Customer attrition, or churn, is a significant challenge for banks and businesses , directly impacting revenue and growth. Retaining existing customers is more cost-effective than acquiring new ones. Therefore, predicting which customers are likely to leave allows banks to develop proactive strategies for retention.
 
 This project aims to predict customer churn based on customer demographics and account-related behavior. By identifying high-risk customers, the bank can target retention efforts more effectively.
 
@@ -50,10 +50,10 @@ To develop a supervised classification model that can accurately predict whether
 
 | Category            | Tools / Technologies                                    |
 |---------------------|---------------------------------------------------------|
-| Programming Language| Python                                                   |
+| Programming Language| Python                                                  |
 | Data Manipulation   | Pandas, NumPy                                           |
 | Data Visualization  | Matplotlib, Seaborn                                     |
-| Modeling Algorithms | Logistic Regression, Random Forests, or Gradient Boosting|
+| Modeling Algorithms | Logistic Regression, Random Forests, or Boosting        |
 | Evaluation Metrics  | Accuracy, Precision, Recall, F1-Score, ROC-AUC          |
 | Environment         | Jupyter Notebook / Python Scripts                       |
 
@@ -89,7 +89,6 @@ The churn prediction model achieved strong performance, with the most important 
 
 ### Future Enhancements  
 
-- Implement SHAP or LIME for model interpretability, to better explain the predictions.
 - Deploy the model using a web framework such as Flask or Streamlit for real-time prediction.
 - Automate the model deployment and monitoring pipeline using tools like MLFlow or DVC.
 
